@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidLearn</string>
+    <string name="title_username">用户名</string>
+    <string name="hint_username">请输入手机号码</string>
+    <string name="title_password">密码</string>
+    <string name="hint_password">请输入密码</string>
+    <string name="title_login">登录</string>
+</resources>
