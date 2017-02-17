@@ -23,11 +23,11 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     /* system extension */
     compile 'com.android.support:appcompat-v7:25.1.1'
-    compile 'com.android.support.constraint:constraint-layout:1.0.0-beta5'
+    compile "com.android.support.constraint:constraint-layout:${CONSTRAINT_LAYOUT_VERSION}"
 
 
 
-    /*  wheel  */
+    /*  wheels  */
     // butter knife
     compile "com.jakewharton:butterknife:${BUTTER_KNIFE_VERSION}"
     annotationProcessor "com.jakewharton:butterknife-compiler:${BUTTER_KNIFE_VERSION}"
